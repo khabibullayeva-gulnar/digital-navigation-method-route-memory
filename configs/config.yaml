@@ -1,1 +1,19 @@
+experiment:
+  title: "Digital Navigation and Route Memory"
+  groups:
+    - TBT
+    - MAP
+  route_type: "unfamiliar pedestrian route"
+  traversals: 1
 
+metrics:
+  primary: "direction_recall_accuracy"
+  secondary: "landmark_recognition_accuracy"
+
+data:
+  sample_path: "data/sample/sample_results.csv"
+
+controls:
+  same_route: true
+  same_test_interval: true
+  same_scoring_rules: true
