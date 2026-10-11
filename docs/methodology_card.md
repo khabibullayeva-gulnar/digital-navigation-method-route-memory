@@ -5,7 +5,7 @@
 
 **Author:** Gulnar Khabibullayeva
 
-**GitHub Repository:** https://github.com/khabibullayeva_gulnar/digital-navigation-method-route-memory
+**GitHub Repository:** https://github.com/khabibullayeva-gulnar/digital-navigation-method-route-memory
 
 ## Research Type
 This study uses a quantitative experimental design. It compares two navigation conditions and measures route-memory performance using numerical accuracy scores.
